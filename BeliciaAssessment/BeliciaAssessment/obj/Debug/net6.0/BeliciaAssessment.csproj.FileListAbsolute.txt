@@ -1,0 +1,17 @@
+C:\Cabinet\Cabinet\Epi-use assessment\BeliciaAssessment\BeliciaAssessment\bin\Debug\net6.0\BeliciaAssessment.exe
+C:\Cabinet\Cabinet\Epi-use assessment\BeliciaAssessment\BeliciaAssessment\bin\Debug\net6.0\BeliciaAssessment.deps.json
+C:\Cabinet\Cabinet\Epi-use assessment\BeliciaAssessment\BeliciaAssessment\bin\Debug\net6.0\BeliciaAssessment.runtimeconfig.json
+C:\Cabinet\Cabinet\Epi-use assessment\BeliciaAssessment\BeliciaAssessment\bin\Debug\net6.0\BeliciaAssessment.dll
+C:\Cabinet\Cabinet\Epi-use assessment\BeliciaAssessment\BeliciaAssessment\bin\Debug\net6.0\BeliciaAssessment.pdb
+C:\Cabinet\Cabinet\Epi-use assessment\BeliciaAssessment\BeliciaAssessment\obj\Debug\net6.0\BeliciaAssessment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cabinet\Cabinet\Epi-use assessment\BeliciaAssessment\BeliciaAssessment\obj\Debug\net6.0\BeliciaAssessment.AssemblyInfoInputs.cache
+C:\Cabinet\Cabinet\Epi-use assessment\BeliciaAssessment\BeliciaAssessment\obj\Debug\net6.0\BeliciaAssessment.AssemblyInfo.cs
+C:\Cabinet\Cabinet\Epi-use assessment\BeliciaAssessment\BeliciaAssessment\obj\Debug\net6.0\BeliciaAssessment.csproj.CoreCompileInputs.cache
+C:\Cabinet\Cabinet\Epi-use assessment\BeliciaAssessment\BeliciaAssessment\obj\Debug\net6.0\BeliciaAssessment.dll
+C:\Cabinet\Cabinet\Epi-use assessment\BeliciaAssessment\BeliciaAssessment\obj\Debug\net6.0\refint\BeliciaAssessment.dll
+C:\Cabinet\Cabinet\Epi-use assessment\BeliciaAssessment\BeliciaAssessment\obj\Debug\net6.0\BeliciaAssessment.pdb
+C:\Cabinet\Cabinet\Epi-use assessment\BeliciaAssessment\BeliciaAssessment\obj\Debug\net6.0\BeliciaAssessment.genruntimeconfig.cache
+C:\Cabinet\Cabinet\Epi-use assessment\BeliciaAssessment\BeliciaAssessment\obj\Debug\net6.0\ref\BeliciaAssessment.dll
+C:\Cabinet\Cabinet\Epi-use assessment\BeliciaAssessment\BeliciaAssessment\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Cabinet\Cabinet\Epi-use assessment\BeliciaAssessment\BeliciaAssessment\obj\Debug\net6.0\BeliciaAssessment.csproj.AssemblyReference.cache
+C:\Cabinet\Cabinet\Epi-use assessment\BeliciaAssessment\BeliciaAssessment\obj\Debug\net6.0\BeliciaAssessment.csproj.CopyComplete

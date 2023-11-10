@@ -1,0 +1,32 @@
+HEADER: Candidate Token: q5mxn1nlniwodaup05x6156q
+ApiEndPoint: https://interviewer-service.gl7ouskkmcjf2.us-east-1.cs.amazonlightsail.com
+
+
+Migrate all the employees from the old system to the new one.
+Managers before their reportees 
+All the employees should be retrieved 500+
+
+MY Task:
+take raw list of employees 
+sort the employees from most important to least (people working under the boss should be under the boss)
+
+
+application should be automated
+must run muliple times
+should automatically retrieve latest full dataset
+sort it and submit the sorted data back to the server
+
+
+RETRIEVING DATA
+
+The get-employees and get-reporting-relationship end point can be used to retrieve the required data
+
+SUBMITTING SORTED LIST
+
+You can send the sorted list to the test end point. For the sake of this project, you can do this as many times as you want until you get a successful response
+if there are any mistakes the server will tell you what was wrong.
+
+
+
+string ClientToken = "q5mxn1nlniwodaup05x6156q";
+string ApiEndPoint = "https://interviewer-service.gl7ouskkmcjf2.us-east-1.cs.amazonlightsail.com";

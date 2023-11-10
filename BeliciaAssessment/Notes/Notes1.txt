@@ -1,0 +1,16 @@
+get data:
+	
+	Get request to the Api
+	Recieve data packet 	
+
+sort data:
+	
+	Manupilate packet into familiar package 
+	Group packets into Lists < objects > 
+	Sort employees by ManagerId 
+	Store in sorted List < employees >
+
+send sorted list to server:
+
+	Push request to the Api
+	Send sorted data to Api

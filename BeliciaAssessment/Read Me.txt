@@ -1,0 +1,17 @@
+BeliciaAsessment
+
+Description
+
+List of employees being sorted back to the Api server
+
+The program gets the json data from the api, sorts the data by combining Name,Id and ManagerId to then create the sorted data that will be converted back to json data, then the sorted json data will be sent back to the api server.
+
+Prerequisites
+- Visual studio
+- .NET Core Runtime
+- Newtonsoft.Json library
+
+## How to Run
+
+Open the program in visual studio
+press F5 to run the program
